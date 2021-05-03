@@ -1,7 +1,7 @@
 {
   "authors": "Google, Inc.",
   "dependencies": {
-    "FirebaseMLVision": "= 7.3.0-beta"
+    "FirebaseMLVision": "= 7.6.0-beta"
   },
   "description": "This is the barcode scanning feature on iOS. ML Kit is a mobile SDK that brings Google's machine learning expertise to mobile devices in a powerful yet easy-to-use package.",
   "frameworks": [
