@@ -1,8 +1,8 @@
 {
   "authors": "Google, Inc.",
   "dependencies": {
-    "FirebaseCore": "= 7.6.0",
-    "FirebaseMLCommon": "= 7.6.0-beta",
+    "FirebaseCore": "= 8.0.0",
+    "FirebaseMLCommon": "= 8.0.0",
     "GTMSessionFetcher/Core": "~> 1.1",
     "GoogleAPIClientForREST/Core": "~> 1.3",
     "GoogleAPIClientForREST/Vision": "~> 1.3",
@@ -40,6 +40,6 @@
   "vendored_frameworks": [
     "Frameworks/FirebaseMLVision.framework"
   ],
-  "version": "7.6.0-beta",
+  "version": "8.0.0",
   "deprecated": true
 }

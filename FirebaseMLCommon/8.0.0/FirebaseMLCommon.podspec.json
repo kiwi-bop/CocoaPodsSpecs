@@ -1,7 +1,7 @@
 {
   "authors": "Google, Inc.",
   "dependencies": {
-    "FirebaseCore": "= 7.6.0",
+    "FirebaseCore": "= 8.0.0",
     "FirebaseInstallations": "~> 7.0",
     "GTMSessionFetcher/Core": "~> 1.1",
     "GoogleToolboxForMac/Logger": "~> 2.1",
@@ -40,6 +40,6 @@
   "vendored_frameworks": [
     "Frameworks/FirebaseMLCommon.framework"
   ],
-  "version": "7.6.0-beta",
+  "version": "8.0.0",
   "deprecated": true
 }
